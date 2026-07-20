@@ -1,92 +1,189 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
-</p>
+<h1 align="center">
+Hi 👋, I'm Yashasvi Sontakki
+</h1>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-### 🤵 About Me:
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
-- 🌱 I’m currently learning docker and kubernetes
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
-- 😄 Pronouns: He/Him
-- 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/))
-- 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
-- ⚡ Fun fact: Je connais un peu le français
+<h3 align="center">
+💻 Python Full Stack Developer | 🎓 Computer Science Engineer | 🚀 Frontend developer
+</h3>
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="MAVEN" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+Developer;JavaScript+Learner;Machine+Learning+Enthusiast;Always+Learning+New+Technologies!" />
 </p>
 
 ---
-### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+# 🚀 About Me
 
-```text
-🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
-🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
+🎓 Final Year Computer Science Engineering Student
 
-```
-📅 **I'm Most Productive on Sunday** 
+💻 Passionate about Python, Web Development & Machine Learning
 
-```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
+🌱 Currently Learning
+- React.js
+- Django REST Framework
+- HTML,CSS,Javascript
+- Advanced JavaScript
+- Data Structures & Algorithms
 
-```
+👨‍💻 Working on Full Stack Projects
 
+🤝 Looking for Full Stack Developer Opportunities
 
+📫 Reach me at:
+yashasvisontakki@gmail.com
+---
 
-<!--END_SECTION:waka-->
+# 🌐 Connect with Me
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
+<p align="left">
+<a href="https://linkedin.com/in/yashasvi-sontakki
+
+">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/yashasvi009">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:yashasvisontakki@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
 
 ---
 
-### 📕 My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
-<!-- BLOG-POST-LIST:END -->
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://skillicons.dev/icons?i=html" />
+
+<img src="https://skillicons.dev/icons?i=css" />
+
+<img src="https://skillicons.dev/icons?i=javascript" />
+
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+<img src="https://skillicons.dev/icons?i=django" />
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://skillicons.dev/icons?i=git" />
+
+<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+<img src="https://skillicons.dev/icons?i=linux" />
+
+</p>
+
 ---
 
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+# 🚀 Featured Projects
 
-----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
+### 🤖 AutoML Platform
+✔ Upload Dataset
 
-Last Edited on: 26/11/2020# yashasvi-sontakki
+✔ Automatic Data Preprocessing
+
+✔ Train Multiple ML Models
+
+✔ Compare Accuracy
+
+✔ Download Best Model
+
+---
+
+### 🏠 Household Services Platform
+
+✔ User Authentication
+
+✔ Service Booking
+
+✔ Admin Dashboard
+
+✔ Django Backend
+
+---
+
+### 📈 Student Performance Prediction
+
+✔ Machine Learning
+
+✔ Data Analysis
+
+✔ Prediction Models
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashasvi009&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasvi009&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💡 Quote of the Day
+
+> "First, solve the problem. Then, write the code." — John Johnson
+
+---
+
+# 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yashasvi900&label=Profile+Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<h4 align="center">
+Happy Coding 🚀
+</h4>
